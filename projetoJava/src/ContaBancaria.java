@@ -29,15 +29,4 @@ public class ContaBancaria {
         System.out.printf("O saldo atual da conta de %s é R$ %.2f.%n", titular, saldo);
     }
 
-    public static void main(String[] args) {
-        ContaBancaria conta1 = new ContaBancaria("Gabriel");
-        conta1.depositar(500);
-        conta1.exibirSaldo();
-
-        conta1.sacar(200);
-        conta1.exibirSaldo();
-
-        conta1.sacar(400);
-        conta1.exibirSaldo();
-    }
 }
