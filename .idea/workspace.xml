@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a511e7f-8a84-4838-8273-418bec511da9" name="Changes" comment="primeiro commit" />
+    <list default="true" id="1a511e7f-8a84-4838-8273-418bec511da9" name="Changes" comment="atualização dos códigos python" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,7 +50,6 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Gabriel/Desktop/Acadêmico/P5/PLP/projeto1&quot;,
@@ -79,6 +83,8 @@
       <workItem from="1728516048161" duration="32000" />
       <workItem from="1728517357243" duration="302000" />
       <workItem from="1728518435329" duration="3510000" />
+      <workItem from="1728526069699" duration="123000" />
+      <workItem from="1728677207030" duration="688000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro commit">
       <option name="closed" value="true" />
